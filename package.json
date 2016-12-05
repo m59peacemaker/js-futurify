@@ -1,0 +1,30 @@
+{
+  "name": "futurize-c",
+  "version": "1.0.0",
+  "description": "Turns a function that takes a node-style callback into a function that returns a future.",
+  "keywords": [
+    "future",
+    "callback",
+    "node",
+    "style",
+    "node-style",
+    "convert"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/js-futurize-c"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
+  "devDependencies": {
+    "ramda-fantasy": "^0.7.0",
+    "tape": "^4.6.3"
+  }
+}
