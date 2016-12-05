@@ -1,6 +1,6 @@
-function Futurify (Future) {
-  return function futurify (fn) {
-    return function futurified () {
+function Futurize (Future) {
+  return function futurize (fn) {
+    return function futurized () {
       var args = [].slice.call(arguments)
       return new Future(function (reject, resolve) {
         function cb (err, result) {
@@ -12,4 +12,4 @@ function Futurify (Future) {
   }
 }
 
-module.exports = Futurify
+module.exports = Futurize

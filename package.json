@@ -1,6 +1,6 @@
 {
   "name": "futurize-c",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns a function that takes a node-style callback into a function that returns a future.",
   "keywords": [
     "future",
