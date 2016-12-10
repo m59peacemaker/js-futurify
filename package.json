@@ -1,14 +1,21 @@
 {
   "name": "futurize-c",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turns a function that takes a node-style callback into a function that returns a future.",
   "keywords": [
     "future",
+    "futurize",
+    "futurify",
     "callback",
     "node",
     "style",
     "node-style",
-    "convert"
+    "functional",
+    "function",
+    "convert",
+    "compatible",
+    "fantasy",
+    "land"
   ],
   "main": "index.js",
   "scripts": {
