@@ -1,6 +1,6 @@
 {
   "name": "futurize-c",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Turns a function that takes a node-style callback into a function that returns a future.",
   "keywords": [
     "future",
@@ -29,7 +29,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "VOL",
+  "license": "CC0-1.0",
   "devDependencies": {
     "ramda-fantasy": "^0.7.0",
     "tape": "^4.6.3"
